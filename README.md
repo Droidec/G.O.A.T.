@@ -30,5 +30,4 @@ See the AUTHORS file in this source distribution for more information.
 
 ## Licence
 
-`G.O.A.T.` is released under BSD-3 clause licence. See the LICENCE file in this source distribution for more information.  
-All rights from the [Fallout 3](https://fallout.bethesda.net/en/games/fallout-3) game belongs to [Bethesda](https://bethesda.net/).
+`G.O.A.T.` is released under BSD-3 clause licence. See the LICENCE file in this source distribution for more information. All rights from the [Fallout 3](https://fallout.bethesda.net/en/games/fallout-3) game belongs to [Bethesda](https://bethesda.net/).
