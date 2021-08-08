@@ -24,6 +24,10 @@ Supported languages:
 - French ([Source](https://fallout-wiki.com/Examen_g%C3%A9n%C3%A9ralis%C3%A9_d%27aptitude_professionnelle))
 - German ([Source](https://fallout.fandom.com/de/wiki/Generalisierter_Orientierungs-_und_Assessment_Test))
 
+## Authors
+
+See the AUTHORS file in this source distribution for more information.
+
 ## Licence
 
 `G.O.A.T.` is released under BSD-3 clause licence. See the LICENCE file in this source distribution for more information.  
