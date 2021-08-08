@@ -25,7 +25,8 @@
 enum Game_Lang
 {
     GAME_LANG_ENGLISH, // Default
-    GAME_LANG_FRENCH
+    GAME_LANG_FRENCH,
+    GAME_LANG_GERMAN
 };
 
 /******************************************************************************

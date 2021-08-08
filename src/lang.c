@@ -30,6 +30,8 @@ enum Game_Lang get_game_lang(const char *lang)
         return GAME_LANG_ENGLISH;
     else if (strcmp("french", lang) == 0)
         return GAME_LANG_FRENCH;
+    else if (strcmp("german", lang) == 0)
+        return GAME_LANG_GERMAN;
 
     fprintf(stderr, "Unhandled game language: %s\n", lang);
     exit(EXIT_FAILURE);
@@ -45,6 +47,9 @@ char *get_lang_resource(enum Game_Lang lang)
         case GAME_LANG_FRENCH:
             // French resource
             return "./res/french.txt";
+        case GAME_LANG_GERMAN:
+            // German resource
+            return "./res/german.txt";
         default:
             // Unhandled game language
             return "";
