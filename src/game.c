@@ -65,7 +65,7 @@ unsigned int ask_question(char question[QUESTION_COMP_NUM][MAX_COMP_LEN])
         answer = getchar();
 
         // Check answer validity
-        if ((answer >= '0' && (answer <= '4')) && getchar() == '\n')
+        if ((answer >= '1' && (answer <= '4')) && getchar() == '\n')
             attempt = true;
 
         // Purge standard input for next attempts/questions
