@@ -12,7 +12,7 @@ The test consists of a sequence of ten questions about how you would act in cert
 
 ## Build & Usage
 
-Simply use the `make` command from the source tree.
+Simply use the `make` command from the source tree.  
 Then, call the binary as follows:
 
 ```cmd
@@ -26,4 +26,5 @@ Supported languages:
 
 ## Licence
 
-This program is released under BSD-3 clause licence. See the LICENCE file in this source distribution for more information. All rights from the [Fallout 3](https://fallout.bethesda.net/en/games/fallout-3) game belongs to [Bethesda](https://bethesda.net/).
+This program is released under BSD-3 clause licence. See the LICENCE file in this source distribution for more information.  
+All rights from the [Fallout 3](https://fallout.bethesda.net/en/games/fallout-3) game belongs to [Bethesda](https://bethesda.net/).

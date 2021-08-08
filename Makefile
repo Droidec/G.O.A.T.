@@ -11,7 +11,7 @@ OBJ_REP         = obj
 # Binary repository
 BIN_REP         = bin
 # Dynamic library name
-TARGET_NAME     = G.O.A.T
+TARGET_NAME     = G.O.A.T.
 # All header files from header repository
 HEADERS         = $(wildcard $(INC_REP)/*.h)
 # All source files from source repository
