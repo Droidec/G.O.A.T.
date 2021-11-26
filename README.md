@@ -6,7 +6,7 @@
 
 > The **Generalized Occupational Aptitude Test (G.O.A.T.)** is a Vault-Tec occupational assessment test that every resident of a vault is required to take at the age of 16.
 
-Our ambition was to simulate the famous starting test in [Fallout 3](https://fallout.bethesda.net/en/games/fallout-3), so that everyone could know their role in a fallout shelter, in case of nuclear war.
+Our goal was to simulate the famous starting test in [Fallout 3](https://fallout.bethesda.net/en/games/fallout-3), so that everyone could know their role in a fallout shelter, in case of nuclear war.
 
 The test consists of a sequence of ten questions about how you would act in certain situations. The responses to these questions determine the job you are best suited for.
 
@@ -30,4 +30,6 @@ See the AUTHORS file in this source distribution for more information.
 
 ## Licence
 
-`G.O.A.T.` is released under BSD-3 clause licence. See the LICENCE file in this source distribution for more information. All rights from the [Fallout 3](https://fallout.bethesda.net/en/games/fallout-3) game belongs to [Bethesda](https://bethesda.net/).
+`G.O.A.T.` is released under BSD-3 clause licence.  
+See the LICENCE file in this source distribution for more information.  
+All rights from the [Fallout 3](https://fallout.bethesda.net/en/games/fallout-3) game belongs to [Bethesda](https://bethesda.net/).
